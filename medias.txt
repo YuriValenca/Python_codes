@@ -1,0 +1,1 @@
+[{'Yuri Valenca': 8.75}, {'Flavio Braga': 5.25}, {'Lucas Asafe': 6.75}]

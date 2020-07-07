@@ -1,0 +1,3 @@
+Yuri Valenca, 10, 10, 7, 8
+Flavio Braga, 7, 5, 4, 5
+Lucas Asafe, 9, 3, 7, 8
